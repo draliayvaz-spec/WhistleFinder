@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>The app listens for whistle sounds to help users locate their device. Continuous audio input is required for real-time detection even when the app is in background.
+</string>
+		<string>audio</string>
+		<string>processing</string>
+	</array>
+</dict>
+</plist>

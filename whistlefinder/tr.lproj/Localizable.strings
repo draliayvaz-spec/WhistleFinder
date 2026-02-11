@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  alininbootcamp
+
+  Created by Ali Eyvazov on 12.02.2026.
+  
+*/
+start = "BAŞLAT";
+stop = "DURDUR";
+status_on = "Dinleniyor";
+status_off = "Dinleme Kapalı";
+sensitivity = "Hassasiyet";
+flash = "Flaş";
+vibration = "Titreşim";

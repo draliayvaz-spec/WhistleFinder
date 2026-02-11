@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  alininbootcamp
+
+  Created by Ali Eyvazov on 12.02.2026.
+  
+*/
+start = "START";
+stop = "STOP";
+status_on = "Listening";
+status_off = "Not Listening";
+sensitivity = "Sensitivity";
+flash = "Flash";
+vibration = "Vibration";
